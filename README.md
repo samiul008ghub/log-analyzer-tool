@@ -26,7 +26,7 @@ After running the script, you will see the following prompt:
 
 ### Step 2: Input your log file name
 
-You need to type the name of your log file in the prompt. In my test lab I have used a file named input_log.csv
+You need to type the name of your log file in the prompt. In my test lab I have used a file named input_log.csv (this is just a sample input log file)
 Feel free to try with any log file as input which may have weird-looking web requests. 
 
 ![image](https://github.com/user-attachments/assets/7e964d40-90e4-47eb-b8ed-ac97fdcb4083)
